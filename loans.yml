@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans: #debe coincidir con el nombre en el contact info configurado en la anotacion @EnableConfigurationProperties
+  # en el main
+  message: "API de Loans"
+  contactDetails:
+    name: "Agustin Tomas Zuniga - Desarrollador"
+    email: "zuniga.tomas99@gmail.com"
+  onCallSupport:
+    -(54)294-4901708
